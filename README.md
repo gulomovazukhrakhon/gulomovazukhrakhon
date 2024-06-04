@@ -8,9 +8,8 @@ Skills:
 - computer vision
 
 Languages:
-- I'm proficient in English with a B2 level of proficiency.
+- I'm proficient in English with a C1 level of proficiency.
 - I'm a bilingual speaker in Russian.
 - Uzbek is my native language.
-- I have basic knowledge of German at an A1 level.
 
 I'm constantly eager to learn and grow in artificial intelligence. Check out my GitHub profile to explore my projects and contributions. Let's connect and collaborate to make a positive impact in the world of AI!
